@@ -1,0 +1,6 @@
+# Environment variables
+export CENTOS_CI_API_KEY=2e575b889be85acabd5b5265aa5fe540
+export GITHUB_ACCESS_TOKEN=0240fb2687f7bbbf80e7cc1f9153d2301b07e01e
+
+# non-public contents
+alias jjbcmd="cat ~/.jenkinscmds"
